@@ -1,7 +1,4 @@
-package chatper2;
-
-import java.util.ArrayList;
-import java.util.List;
+package chatper2.item1;
 
 // 전통적인 방식으로 클래스를 선언 후 API 를 정의한 Validator
 class Validator {
