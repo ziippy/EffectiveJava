@@ -30,13 +30,13 @@
 <br/>
 <strong>네이밍 컨벤션</strong>
 
-- from: 매개변수를 하나 받아서 해당 타입의 인스턴스를 반환하는 형변환 메서드
-- of: 여러 매개변수를 받아 적합한 타입의 인스턴스를 반환하는 집계 메서드
-- valueOf: from 과 of 의 더 자세한 버전
-- instance | getInstance: 인스턴스 생성. 늘 새로운 것이거나, 같은 것임을 보장하진 않음
-- create | newInstance: 매번 새로운 인스턴스 생성
-- getType: 다른 클래스에 팩터리 메서드를 정의할 때 쓴다
-- newType: 다른 클래스에 팩터리 메서드를 정의할 때 쓴다. 매번 새로운 인스턴스
-- type: getType 과 newType 의 간결한 버전
+- `from`: 매개변수를 하나 받아서 해당 타입의 인스턴스를 반환하는 형변환 메서드
+- `of`: 여러 매개변수를 받아 적합한 타입의 인스턴스를 반환하는 집계 메서드
+- `valueOf`: from 과 of 의 더 자세한 버전
+- `instance` | getInstance: 인스턴스 생성. 늘 새로운 것이거나, 같은 것임을 보장하진 않음
+- `create` | newInstance: 매번 새로운 인스턴스 생성
+- `getType`: 다른 클래스에 팩터리 메서드를 정의할 때 쓴다
+- `newType`: 다른 클래스에 팩터리 메서드를 정의할 때 쓴다. 매번 새로운 인스턴스
+- `type`: getType 과 newType 의 간결한 버전
 
 
