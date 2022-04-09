@@ -4,8 +4,7 @@
 
 **(요약)** 정적 팩터리를 사용하는 게 율한 경우가 더 많으므로, 무작정 public 생성자를 제공하던 습관이 있다면 고치자. !!
 
-클라이언트가 클래스의 인스턴스를 얻는 전통적인 수단은 public 생성자이다.
-
+클라이언트가 클래스의 인스턴스를 얻는 전통적인 수단은 public 생성자이다.<br>
 하지만, 클래스는 생성자와 별도로 정적 팩터리 메서드(static factory method)를 제공할 수 있다.
 
 코드: [Item1.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chatper2/item1/Item1.java)
