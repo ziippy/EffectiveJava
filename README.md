@@ -2,6 +2,6 @@
 
 구현한 코드들과 설명들
 
-<img src="http://image.yes24.com/goods/65551284/XL" width="300" height="400">
+<img src="https://github.com/ziippy/EffectiveJava/blob/master/effective_java_3e.jpg?raw=true" width="300" height="400">
 
 (책에 언급된 원본 소스 코드: https://github.com/WegraLee/effective-java-3e-source-code.git)
