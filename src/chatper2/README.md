@@ -5,3 +5,5 @@
 #### < [아이템2](https://github.com/ziippy/EffectiveJava/tree/master/src/chatper2/item2) > 생성자에 매개변수가 많다면 빌더를 고려하라
 
 #### < [아이템3](https://github.com/ziippy/EffectiveJava/tree/master/src/chatper2/item3) > private 생성자나 열거 타입으로 싱글턴임을 보증하라
+
+#### < [아이템4](https://github.com/ziippy/EffectiveJava/tree/master/src/chatper2/item4) > 인스턴스화를 막으려거든 private 생성자를 사용하라
