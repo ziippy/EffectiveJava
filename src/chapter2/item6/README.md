@@ -22,7 +22,7 @@
 - 방어적 복사를 실패하면 언제 터져 나올 지 모르는 버그와 보안 구멍으로 이어지지만,<br>
   불필요한 객체 생성은 그저 코드 형태와 성능에만 영향을 준다.
 
-코드: [Item6.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item5/Item6.java)
+코드: [Item6.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item6/Item6.java)
 
 
 
