@@ -2,9 +2,9 @@
 
 ### <아이템2 > 생성자에 매개변수가 많다면 빌더를 고려하라
 
-**(요약)** 생성자나 정적 팩터리가 처리해야 할 매개변수가 많다면 빌더 패턴을 선택하는 게 더 낫다.
+> **(요약)** 생성자나 정적 팩터리가 처리해야 할 매개변수가 많다면 빌더 패턴을 선택하는 게 더 낫다.
 
-클래스용 생성자 혹은 정적 팩터리는 어떤 모습일까?
+<span style="color:skyblue">클래스용 생성자 혹은 정적 팩터리는 어떤 모습일까?</span>
 
 1. 점층적 생성자 패턴 (telescoping constructor pattern)
 매개변수 1개부터 n개까지 해당하는 생성자를 늘려나가는 방식<br>
@@ -26,7 +26,9 @@
 -> 계층적으로 설계된 클래스와 함께 쓰기에 좋다.<br>
 코드: [BuilderPattern2.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item2/BuilderPattern2.java)
 
-<strong>빌더 패턴은 상당히 유연하다.</strong>
+<br>
+
+<span style="color:skyblue">빌더 패턴은 상당히 유연하다.</span>
 
 빌더 하나로 여러 객체를 순회하면서 만들 수 있고, 빌더에 넘기는 매개변수에 따라 다른 객체를 만들 수도 있다.
 

@@ -2,7 +2,7 @@
 
 ### <아이템1 > 생성자 대신 정적 팩터리 메서드를 고려하라
 
-**(요약)** 정적 팩터리를 사용하는 게 율한 경우가 더 많으므로, 무작정 public 생성자를 제공하던 습관이 있다면 고치자. !!
+> **(요약)** 정적 팩터리를 사용하는 게 율한 경우가 더 많으므로, 무작정 public 생성자를 제공하던 습관이 있다면 고치자. !!
 
 클라이언트가 클래스의 인스턴스를 얻는 전통적인 수단은 public 생성자이다.<br>
 하지만, 클래스는 생성자와 별도로 정적 팩터리 메서드(static factory method)를 제공할 수 있다.
@@ -10,7 +10,7 @@
 코드: [Item1.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item1/Item1.java)
 
 <br/>  
-<strong>정적 팩터리 메서드가 생성자보다 좋은 장점 5가지</strong>
+<span style="color:skyblue">정적 팩터리 메서드가 생성자보다 좋은 장점 5가지</span>
 
 1. 이름을 가질 수 있다.<br>
   -> Integer.valueOf 에서 valueOf 처럼 의미가 유추 가능한 이름을 지을 수 있다.
@@ -22,13 +22,13 @@
 5. 정적 팩터리 메서드를 작성하는 시점에는 반환할 객체의 클래스가 존재하지 않아도 된다.
 
 <br/>
-<strong>단점 2가지</strong>
+<span style="color:skyblue">단점 2가지</span>
 
 1. 상속을 하려면 public 이나 protected 생성자가 필요하니, 정적 팩터리 메서드만 제공하면 하위 클래스를 만들 수 없다.
 2. 프로그래머가 찾기 힘들다.
 
 <br/>
-<strong>네이밍 컨벤션</strong>
+<span style="color:skyblue">네이밍 컨벤션</span>
 
 - `from`: 매개변수를 하나 받아서 해당 타입의 인스턴스를 반환하는 형변환 메서드
 - `of`: 여러 매개변수를 받아 적합한 타입의 인스턴스를 반환하는 집계 메서드
