@@ -1,4 +1,4 @@
-package chatper2.item1;
+package chapter2.item1;
 
 // 전통적인 방식으로 클래스를 선언 후 API 를 정의한 Validator
 class Validator {
@@ -50,7 +50,7 @@ class Base {
     }
 }
 
-// 아래 줄 처럼 정의하려고 하면, 오류가 발생한다. -> There is no default constructor available in 'chatper2.Base'
+// 아래 줄 처럼 정의하려고 하면, 오류가 발생한다. -> There is no default constructor available in 'chapter2.Base'
 // class MyBase extends Base {}
 
 public class Item1 {

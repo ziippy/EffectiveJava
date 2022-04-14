@@ -13,7 +13,7 @@ java.lang.Math 와 java.util.Arrays 처럼 기본 타입 값이나 배열 관련
 따라서 private 생성자를 추가하면 클래스의 인스턴스화를 막을 수 있다.<br>
 이 방식은 상속을 불가능하게 하는 효과도 있다.
 
-코드: [Item4.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chatper2/item4/Item4.java)
+코드: [Item4.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item4/Item4.java)
 
 
 

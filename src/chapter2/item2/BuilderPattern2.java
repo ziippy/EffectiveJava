@@ -1,4 +1,4 @@
-package chatper2.item2;
+package chapter2.item2;
 
 import java.util.EnumSet;
 import java.util.Set;

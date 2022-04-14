@@ -1,4 +1,4 @@
-package chatper2.item4;
+package chapter2.item4;
 
 class PrivateConstructor {
     private PrivateConstructor() { }

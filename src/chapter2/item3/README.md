@@ -26,7 +26,7 @@ API 를 바꾸지 않고도 싱글턴이 아니게 변경할 수 있다는 점 <
 -> 장점 <br>
 제 2의 인스턴스가 생기는 일을 완벽히 막아줌 
 
-코드: [Item3.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chatper2/item3/Item3.java)
+코드: [Item3.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item3/Item3.java)
 
 
 

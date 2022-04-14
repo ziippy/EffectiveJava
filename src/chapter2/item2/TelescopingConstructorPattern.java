@@ -1,4 +1,4 @@
-package chatper2.item2;
+package chapter2.item2;
 
 class Food {
     // 필수정보 - 이름과 가격

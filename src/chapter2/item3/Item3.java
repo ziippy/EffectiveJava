@@ -1,4 +1,4 @@
-package chatper2.item3;
+package chapter2.item3;
 
 // public static final 필드 방식의 싱글턴
 // 장점: 해당 클래스가 싱글턴임이 API 에 명백히 들어난다.

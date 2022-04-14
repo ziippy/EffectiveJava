@@ -12,7 +12,7 @@
 - 쓸만한 변형은, 생성자에 자원 팩터리를 넘겨주는 방식이다.
 - 이 기법은 클래스의 유연성, 재사용성, 테스트 용이성을 기막히게 개선해준다.
 
-코드: [Item5.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chatper2/item5/Item5.java)
+코드: [Item5.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item5/Item5.java)
 
 
 

@@ -1,6 +1,4 @@
-package chatper2.item5;
-
-import jdk.jshell.spi.ExecutionControl;
+package chapter2.item5;
 
 abstract class Dictionary {
     abstract public String getCode();
