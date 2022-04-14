@@ -9,7 +9,7 @@
 - 리스너 또는 콜백도 클라이언트가 등록만 하고 명확히 해지하지 않는다면 계속해서 쌓여갈 것이다.<br>
   이럴 때 ,콜백을 약한 참조(weak reference)로 저장하면 가비지 컬렉터가 즉시 수거해간다.
 
-코드: [Item7.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item5/Item7.java)
+코드: [Item7.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter2/item7/Item7.java)
 
 
 
