@@ -15,3 +15,5 @@
 #### < [아이템7](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter2/item7) > 다 쓴 객체 참조를 해제하라
 
 #### < [아이템8](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter2/item8) > finalizer 와 cleaner 사용을 피하라
+
+#### < [아이템9](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter2/item9) > try-finally 보다는 try-with-resources 를 사용하라
