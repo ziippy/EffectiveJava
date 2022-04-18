@@ -4,6 +4,8 @@
 
 [2장 - 객체 생성과 파괴](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter2)
 
+[3장 - 모든 객체의 공통 메서드](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3)
+
 <img src="https://github.com/ziippy/EffectiveJava/blob/master/effective_java_3e.jpg?raw=true" width="300" height="400">
 
 (책에 언급된 원본 소스 코드: https://github.com/WegraLee/effective-java-3e-source-code.git)
