@@ -15,3 +15,5 @@ Object 에서 final 이 아닌 메서드는 모두 재정의(overriding)를 염�
 만약 그렇지 않으면, 대상 클래스가 이 규약을 준수한다고 가정하는 클래스(HashMap 과 HashSet 등)를 오동작하게 만들 수 있다.
 
 #### < [아이템10](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item10) > equals 는 일반 규약을 지켜 재정의하라
+
+#### < [아이템11](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item11) > equals 를 재정의하려거든 hashCode 도 재정의하라
