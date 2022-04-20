@@ -19,3 +19,5 @@ Object 에서 final 이 아닌 메서드는 모두 재정의(overriding)를 염�
 #### < [아이템11](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item11) > equals 를 재정의하려거든 hashCode 도 재정의하라
 
 #### < [아이템12](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item12) > toString 을 항상 재정의하라
+
+#### < [아이템13](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item13) > clone 재정의는 주의해서 진행하라
