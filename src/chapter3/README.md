@@ -21,3 +21,5 @@ Object 에서 final 이 아닌 메서드는 모두 재정의(overriding)를 염�
 #### < [아이템12](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item12) > toString 을 항상 재정의하라
 
 #### < [아이템13](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item13) > clone 재정의는 주의해서 진행하라
+
+#### < [아이템14](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter3/item14) > Comparable 을 구현할지 고려하라
