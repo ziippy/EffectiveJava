@@ -7,3 +7,5 @@
 이런 요소들을 적절히 활용하여 클래스와 인터페이스를 쓰기 편하고, 견고하며, 유연하게 만드는 방법을 안내한다.
 
 #### < [아이템15](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item15) > 클래스와 멤버의 접근 권한을 최소화하라
+
+#### < [아이템16](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item16) > public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라
