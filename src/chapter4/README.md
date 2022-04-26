@@ -12,4 +12,6 @@
 
 #### < [아이템17](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item17) > 변경 가능성을 최소화하라
 
-#### < [아이템18](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item17) > 상속보다는 컴포지션을 사용하라
+#### < [아이템18](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item18) > 상속보다는 컴포지션을 사용하라
+
+#### < [아이템19](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item19) > 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라
