@@ -20,4 +20,6 @@
 
 #### < [아이템21](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item21) > 인터페이스는 구현하는 쪽을 생각해 설계하라
 
-#### < [아이템22](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item22) > 인터페이스는 타입을 정의하는 용도로만 사용하라 
+#### < [아이템22](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item22) > 인터페이스는 타입을 정의하는 용도로만 사용하라
+
+#### < [아이템23](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item23) > 태그 달린 클래스보다는 클래스 계층구조를 활용하라
