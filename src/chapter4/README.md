@@ -19,3 +19,5 @@
 #### < [아이템20](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item20) > 추상 클래스보다는 인터페이스를 우선하라
 
 #### < [아이템21](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item21) > 인터페이스는 구현하는 쪽을 생각해 설계하라
+
+#### < [아이템22](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item22) > 인터페이스는 타입을 정의하는 용도로만 사용하라 
