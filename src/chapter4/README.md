@@ -24,4 +24,6 @@
 
 #### < [아이템23](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item23) > 태그 달린 클래스보다는 클래스 계층구조를 활용하라
 
-#### < [아이템24](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item23) > 멤버 클래스는 되도록 static 으로 만들라
+#### < [아이템24](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item24) > 멤버 클래스는 되도록 static 으로 만들라
+
+#### < [아이템25](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter4/item25) > 톱레벨 클래스는 한 파일에 하나만 담으라
