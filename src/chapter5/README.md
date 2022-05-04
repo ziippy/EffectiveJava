@@ -16,3 +16,5 @@
 **제네릭의 이점을 최대로 살리고 단점을 최소화하는 방법을 알아보자**
 
 #### < [아이템26](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item26) > 로 타입은 사용하지 말라
+
+#### < [아이템27](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item27) > 비검사 경고를 제거하라
