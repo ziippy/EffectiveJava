@@ -18,3 +18,5 @@
 #### < [아이템26](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item26) > 로 타입은 사용하지 말라
 
 #### < [아이템27](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item27) > 비검사 경고를 제거하라
+
+#### < [아이템28](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item28) > 배열보다는 리스트를 사용하라
