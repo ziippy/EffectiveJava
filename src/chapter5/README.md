@@ -20,3 +20,5 @@
 #### < [아이템27](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item27) > 비검사 경고를 제거하라
 
 #### < [아이템28](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item28) > 배열보다는 리스트를 사용하라
+
+#### < [아이템29](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item29) > 이왕이면 제네릭 타입으로 만들어라 
