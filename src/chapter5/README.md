@@ -21,4 +21,6 @@
 
 #### < [아이템28](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item28) > 배열보다는 리스트를 사용하라
 
-#### < [아이템29](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item29) > 이왕이면 제네릭 타입으로 만들어라 
+#### < [아이템29](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item29) > 이왕이면 제네릭 타입으로 만들어라
+
+#### < [아이템30](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item30) > 이왕이면 제네릭 메서드로 만들라 
