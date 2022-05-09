@@ -4,7 +4,7 @@ import java.util.*;
 
 
 class Machine<T> {
-    private List<T> versions = new ArrayList<>();
+    private final List<T> versions = new ArrayList<>();
 
     @SafeVarargs
     public final void safe(T... toAdd) {
