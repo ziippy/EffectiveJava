@@ -28,3 +28,5 @@
 #### < [아이템31](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item31) > 한정적 와일드카드를 사용해 API 유연성을 높여라
 
 #### < [아이템32](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item32) > 제네릭과 가변인수를 함께 쓸 때는 신중하라
+
+#### < [아이템33](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter5/item33) > 타입 안전 이종 컨네이터를 고려하라 
