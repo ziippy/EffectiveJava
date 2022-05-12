@@ -8,3 +8,5 @@
 이 타입들을 올바르게 사용하는 방법을 알아보자.
 
 #### < [아이템34](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item34) > int 상수 대신 열거 타입을 사용하라
+
+#### < [아이템35](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item35) > ordinal 메서드 대신 인스턴스 필드를 사용하라
