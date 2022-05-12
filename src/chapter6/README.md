@@ -10,3 +10,5 @@
 #### < [아이템34](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item34) > int 상수 대신 열거 타입을 사용하라
 
 #### < [아이템35](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item35) > ordinal 메서드 대신 인스턴스 필드를 사용하라
+
+#### < [아이템36](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item36) > 비트 필드 대신 EnumSet을 사용하라 
