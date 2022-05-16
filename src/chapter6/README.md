@@ -16,3 +16,5 @@
 #### < [아이템37](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item37) > ordinal 인덱싱 대신 EnumMap을 사용하라
 
 #### < [아이템38](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item38) > 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라
+
+#### < [아이템39](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item39) > 명명 패턴보다 어노테이션을 사용하라
