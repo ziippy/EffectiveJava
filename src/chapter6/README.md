@@ -18,3 +18,5 @@
 #### < [아이템38](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item38) > 확장할 수 있는 열거 타입이 필요하면 인터페이스를 사용하라
 
 #### < [아이템39](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item39) > 명명 패턴보다 어노테이션을 사용하라
+
+#### < [아이템40](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item40) > @Override 어노테이션을 일관되게 사용하라 
