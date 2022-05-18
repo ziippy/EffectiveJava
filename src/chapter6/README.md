@@ -19,4 +19,6 @@
 
 #### < [아이템39](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item39) > 명명 패턴보다 어노테이션을 사용하라
 
-#### < [아이템40](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item40) > @Override 어노테이션을 일관되게 사용하라 
+#### < [아이템40](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item40) > @Override 어노테이션을 일관되게 사용하라
+
+#### < [아이템41](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter6/item41) > 정의하려는 것이 타입이라면 마커 인터페이스를 사용하라 
