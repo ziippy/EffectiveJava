@@ -7,3 +7,5 @@
 이 기능들을 효과적으로 사용하는 방법을 알아보자.
 
 #### < [아이템42](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item42) > 익명 클래스보다는 람다를 사용하라
+
+#### < [아이템43](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item43) > 람다보다는 메서드 참조를 사용하라
