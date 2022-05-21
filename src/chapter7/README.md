@@ -9,3 +9,5 @@
 #### < [아이템42](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item42) > 익명 클래스보다는 람다를 사용하라
 
 #### < [아이템43](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item43) > 람다보다는 메서드 참조를 사용하라
+
+#### < [아이템44](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item44) > 표준 함수형 인터페이스를 사용하라 
