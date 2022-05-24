@@ -14,4 +14,6 @@
 
 #### < [아이템45](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item45) > 스트림은 주의해서 사용하라
 
-#### < [아이템46](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item46) > 스트림에서는 부작용 없는 함수를 사용하라 
+#### < [아이템46](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item46) > 스트림에서는 부작용 없는 함수를 사용하라
+
+#### < [아이템47](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter7/item47) > 반환 타입으로는 스트림보다 컬렉션이 낫다
