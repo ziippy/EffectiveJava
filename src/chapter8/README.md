@@ -13,3 +13,5 @@
 a#### < [아이템49](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item49) > 매개변수가 유효한지 검사하라
 
 a#### < [아이템50](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item50) > 적시에 방어적 복사본을 만들라
+
+a#### < [아이템51](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item51) > 메서드 시그니처를 신중히 설계하라
