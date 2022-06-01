@@ -17,3 +17,5 @@ a#### < [아이템50](https://github.com/ziippy/EffectiveJava/tree/master/src/ch
 a#### < [아이템51](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item51) > 메서드 시그니처를 신중히 설계하라
 
 a#### < [아이템52](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item52) > 다중정의는 신중히 사용하자
+
+a#### < [아이템53](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item53) > 가변인수는 신중히 사용하라
