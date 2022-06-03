@@ -21,3 +21,5 @@ a#### < [아이템52](https://github.com/ziippy/EffectiveJava/tree/master/src/ch
 a#### < [아이템53](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item53) > 가변인수는 신중히 사용하라
 
 a#### < [아이템54](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item54) > null이 아닌, 빈 컬렉션이나 배열을 반환하라
+
+a#### < [아이템54](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item55) > 옵셔널 반환은 신중히 하라
