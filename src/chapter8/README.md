@@ -22,4 +22,6 @@ a#### < [아이템53](https://github.com/ziippy/EffectiveJava/tree/master/src/ch
 
 a#### < [아이템54](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item54) > null이 아닌, 빈 컬렉션이나 배열을 반환하라
 
-a#### < [아이템54](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item55) > 옵셔널 반환은 신중히 하라
+a#### < [아이템55](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item55) > 옵셔널 반환은 신중히 하라
+
+a#### < [아이템56](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter8/item56) > 공개된 API 요소에는 항상 문서화 주석을 작성하라
