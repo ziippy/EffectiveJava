@@ -9,3 +9,5 @@
 a#### < [아이템57](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item57) > 지역변수의 범위를 최소화하라
 
 a#### < [아이템58](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item58) > 전통적인 for 문보다는 for-each 문을 사용하라
+
+a#### < [아이템59](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item59) > 라이브러리를 익히고 사용하라
