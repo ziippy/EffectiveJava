@@ -6,8 +6,10 @@
 - 그리고 언어 경계를 넘나드는 기능인 리플렉션과 네이티브 메서드를 다룬다.
 - 마지막으로 최적화와 명명 규칙을 논한다.
 
-a#### < [아이템57](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item57) > 지역변수의 범위를 최소화하라
+#### < [아이템57](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item57) > 지역변수의 범위를 최소화하라
 
-a#### < [아이템58](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item58) > 전통적인 for 문보다는 for-each 문을 사용하라
+#### < [아이템58](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item58) > 전통적인 for 문보다는 for-each 문을 사용하라
 
-a#### < [아이템59](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item59) > 라이브러리를 익히고 사용하라
+#### < [아이템59](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item59) > 라이브러리를 익히고 사용하라
+
+#### < [아이템60](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item60) > 정확한 답이 필요하다면 float 와 double 은 피하라
