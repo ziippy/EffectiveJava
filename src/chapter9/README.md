@@ -15,3 +15,5 @@
 #### < [아이템60](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item60) > 정확한 답이 필요하다면 float 와 double 은 피하라
 
 #### < [아이템61](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item61) > 박싱된 기본 타입보다는 기본 타입을 사용하라
+
+#### < [아이템62](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item62) > 다른 타입이 적절하다면 문자열 사용을 피하라
