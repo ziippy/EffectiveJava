@@ -21,3 +21,5 @@
 #### < [아이템63](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item63) > 문자열 연결은 느리니 주의하라
 
 #### < [아이템64](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item64) > 객체는 인터페이스를 사용해 참조하라
+
+#### < [아이템65](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item65) > 리플렉션보다는 인터페이스를 사용하라
