@@ -20,4 +20,4 @@ LinkedHashSet<Son> sonSet = new LinkedHashSet<>();
 
 적절한 인터페이스가 없다면 계층구조 중 필요한 기능을 만족하는 가장 덜 구체적인(상위의) 클래스를 타입으로 사용하자.
 
-코드, [Item63.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter9/item63/Item63.java)
+코드, [Item64.java](https://github.com/ziippy/EffectiveJava/blob/master/src/chapter9/item64/Item64.java)
