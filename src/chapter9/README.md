@@ -25,3 +25,5 @@
 #### < [아이템65](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item65) > 리플렉션보다는 인터페이스를 사용하라
 
 #### < [아이템66](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item66) > 네이티브 메서드는 신중히 사용하라
+
+#### < [아이템67](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9/item67) > 최적화는 신중히 하라
