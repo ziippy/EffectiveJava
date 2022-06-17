@@ -18,6 +18,8 @@
 
 [9장 - 일반적인 프로그래밍 원칙](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter9)
 
+[10장 - 예외](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10)
+
 <img src="https://github.com/ziippy/EffectiveJava/blob/master/effective_java_3e.jpg?raw=true" width="300" height="400">
 
 (책에 언급된 원본 소스 코드: https://github.com/WegraLee/effective-java-3e-source-code.git)
