@@ -5,3 +5,5 @@
 이번 장에서는 예외를 효과적으로 활용하는 지침을 다룬다.
 
 #### < [아이템69](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item69) > 예외는 진짜 예외 상황에만 사용하라
+
+#### < [아이템70](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item70) > 복구할 수 있는 상황에는 검사 예외를, 프로그래밍 오류에는 런타임 예외를 사용하라
