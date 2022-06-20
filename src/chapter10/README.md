@@ -11,3 +11,5 @@
 #### < [아이템71](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item71) > 필요 없는 검사 예외 사용은 피하라
 
 #### < [아이템72](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item72) > 표준 예외를 사용하라
+
+#### < [아이템73](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item73) > 추상화 수준에 맞는 예외를 던지라
