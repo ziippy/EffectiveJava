@@ -13,3 +13,5 @@
 #### < [아이템72](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item72) > 표준 예외를 사용하라
 
 #### < [아이템73](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item73) > 추상화 수준에 맞는 예외를 던지라
+
+#### < [아이템74](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item74) > 메서드가 던지는 모든 예외를 문서화하라
