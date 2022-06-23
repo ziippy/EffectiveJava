@@ -17,3 +17,5 @@
 #### < [아이템74](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item74) > 메서드가 던지는 모든 예외를 문서화하라
 
 #### < [아이템75](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item75) > 예외의 상세 메시지에 실패 관련 정보를 담으라
+
+#### < [아이템76](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter10/item76) > 가능한 한 실패 원자적으로 만들라
