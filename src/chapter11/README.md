@@ -9,3 +9,5 @@
 동시성 프로그램을 명확하고 정확하게 만들고 잘 문서화하는 데 도움이 되는 조언들을 담았다.
 
 #### < [아이템78](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item78) > 공유 중인 가변 데이터는 동기화해 사용하라
+
+#### < [아이템79](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item79) > 과도한 동기화는 피하라
