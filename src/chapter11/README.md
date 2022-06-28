@@ -13,3 +13,5 @@
 #### < [아이템79](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item79) > 과도한 동기화는 피하라
 
 #### < [아이템80](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item80) > 스레드보다는 실행자, 태스크, 스트림을 애용하라
+
+#### < [아이템81](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item81) > wait 와 notify 보다는 동시성 유틸리티를 애용하라
