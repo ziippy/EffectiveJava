@@ -17,3 +17,5 @@
 #### < [아이템81](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item81) > wait 와 notify 보다는 동시성 유틸리티를 애용하라
 
 #### < [아이템82](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item82) > 스레드 안정성 수준을 문서화하라
+
+#### < [아이템83](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item83) > 지연 초기화는 신중히 사용하라
