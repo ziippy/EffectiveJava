@@ -19,3 +19,5 @@
 #### < [아이템82](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item82) > 스레드 안정성 수준을 문서화하라
 
 #### < [아이템83](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item83) > 지연 초기화는 신중히 사용하라
+
+#### < [아이템84](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter11/item84) > 프로그램의 동작을 스레드 스케줄러에 기대지 말라
