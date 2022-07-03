@@ -7,3 +7,5 @@
 이번 장은 직렬화가 품고 있는 위험과 그 위험을 최소화하는 방법에 집중한다.
 
 #### < [아이템85](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter12/item85) > 자바 직렬화의 대안을 찾으라
+
+#### < [아이템86](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter12/item86) > Serializable 을 구현할지는 신중히 결정하라
