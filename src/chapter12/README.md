@@ -13,3 +13,5 @@
 #### < [아이템87](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter12/item87) > 커스텀 직렬화 형태를 고려해보라
 
 #### < [아이템88](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter12/item88) > readObject 메서드는 방어적으로 작성하라
+
+#### < [아이템89](https://github.com/ziippy/EffectiveJava/tree/master/src/chapter12/item89) > 인스턴스 수를 통제해야 한다면 readResolve 보다는 열거 타입을 사용하라
